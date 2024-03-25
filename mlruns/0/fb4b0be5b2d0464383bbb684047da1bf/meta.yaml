@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Luis/Desktop/wd/ml_flow/mlruns/0/fb4b0be5b2d0464383bbb684047da1bf/artifacts
+end_time: 1711381378613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb4b0be5b2d0464383bbb684047da1bf
+run_name: popular-bear-634
+run_uuid: fb4b0be5b2d0464383bbb684047da1bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711381371544
+status: 3
+tags: []
+user_id: Luis
