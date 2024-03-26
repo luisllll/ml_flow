@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364121719613593491/6f27005948f94db0acefb23eccf27f2e/artifacts
+end_time: 1711452282685
+entry_point_name: ''
+experiment_id: '364121719613593491'
+lifecycle_stage: active
+run_id: 6f27005948f94db0acefb23eccf27f2e
+run_name: delightful-auk-992
+run_uuid: 6f27005948f94db0acefb23eccf27f2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711452275339
+status: 3
+tags: []
+user_id: Luis

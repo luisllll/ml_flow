@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1711452282647
+current_stage: None
+description: ''
+last_updated_timestamp: 1711452282647
+name: prueba-luis
+run_id: 6f27005948f94db0acefb23eccf27f2e
+run_link: ''
+source: mlflow-artifacts:/364121719613593491/6f27005948f94db0acefb23eccf27f2e/artifacts/modelo-iris
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/364121719613593491/6f27005948f94db0acefb23eccf27f2e/artifacts/modelo-iris
+user_id: null
+version: 1
